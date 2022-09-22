@@ -1,0 +1,9 @@
+{
+  "_class_name": "PNDMScheduler",
+  "_diffusers_version": "0.2.2",
+  "beta_end": 0.012,
+  "beta_schedule": "scaled_linear",
+  "beta_start": 0.00085,
+  "num_train_timesteps": 1000,
+  "skip_prk_steps": true
+}

@@ -1,0 +1,45 @@
+---
+license: mit
+---
+### grit toy on Stable Diffusion
+This is the `<grit-toy>` concept taught to Stable Diffusion via Textual Inversion. You can load this concept into the [Stable Conceptualizer](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_conceptualizer_inference.ipynb) notebook. You can also train your own concepts and load them into the concept libraries using [this notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb).
+
+Here is the new concept you will be able to use as a `style`:
+![<grit-toy> 0](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/30.jpeg)
+![<grit-toy> 1](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/24.jpeg)
+![<grit-toy> 2](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/19.jpeg)
+![<grit-toy> 3](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/5.jpeg)
+![<grit-toy> 4](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/6.jpeg)
+![<grit-toy> 5](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/15.jpeg)
+![<grit-toy> 6](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/20.jpeg)
+![<grit-toy> 7](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/35.jpeg)
+![<grit-toy> 8](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/14.jpeg)
+![<grit-toy> 9](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/9.jpeg)
+![<grit-toy> 10](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/3.jpeg)
+![<grit-toy> 11](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/0.jpeg)
+![<grit-toy> 12](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/36.jpeg)
+![<grit-toy> 13](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/33.jpeg)
+![<grit-toy> 14](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/17.jpeg)
+![<grit-toy> 15](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/12.jpeg)
+![<grit-toy> 16](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/13.jpeg)
+![<grit-toy> 17](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/2.jpeg)
+![<grit-toy> 18](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/16.jpeg)
+![<grit-toy> 19](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/25.jpeg)
+![<grit-toy> 20](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/18.jpeg)
+![<grit-toy> 21](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/22.jpeg)
+![<grit-toy> 22](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/10.jpeg)
+![<grit-toy> 23](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/31.jpeg)
+![<grit-toy> 24](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/7.jpeg)
+![<grit-toy> 25](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/1.jpeg)
+![<grit-toy> 26](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/27.jpeg)
+![<grit-toy> 27](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/32.jpeg)
+![<grit-toy> 28](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/34.jpeg)
+![<grit-toy> 29](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/26.jpeg)
+![<grit-toy> 30](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/21.jpeg)
+![<grit-toy> 31](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/23.jpeg)
+![<grit-toy> 32](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/29.jpeg)
+![<grit-toy> 33](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/11.jpeg)
+![<grit-toy> 34](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/28.jpeg)
+![<grit-toy> 35](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/4.jpeg)
+![<grit-toy> 36](https://huggingface.co/sd-concepts-library/grit-toy/resolve/main/concept_images/8.jpeg)
+
