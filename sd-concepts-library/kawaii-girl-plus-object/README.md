@@ -1,0 +1,46 @@
+---
+license: mit
+---
+### kawaii_girl_plus_object on Stable Diffusion
+This is the `<kawaii_girl>` concept taught to Stable Diffusion via Textual Inversion. You can load this concept into the [Stable Conceptualizer](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_conceptualizer_inference.ipynb) notebook. You can also train your own concepts and load them into the concept libraries using [this notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb).
+
+Here is the new concept you will be able to use as an `object`:
+![<kawaii_girl> 0](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/0.png)
+![<kawaii_girl> 1](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/1.png)
+![<kawaii_girl> 2](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/2.png)
+![<kawaii_girl> 3](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/3.png)
+![<kawaii_girl> 4](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/4.png)
+![<kawaii_girl> 5](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/5.png)
+![<kawaii_girl> 6](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/6.png)
+![<kawaii_girl> 7](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/7.png)
+![<kawaii_girl> 8](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/8.png)
+![<kawaii_girl> 9](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/9.png)
+![<kawaii_girl> 10](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/10.png)
+![<kawaii_girl> 11](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/11.png)
+![<kawaii_girl> 12](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/12.png)
+![<kawaii_girl> 13](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/13.png)
+![<kawaii_girl> 14](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/14.png)
+![<kawaii_girl> 15](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/15.png)
+![<kawaii_girl> 16](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/16.png)
+![<kawaii_girl> 17](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/17.png)
+![<kawaii_girl> 18](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/18.png)
+![<kawaii_girl> 19](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/19.png)
+![<kawaii_girl> 20](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/20.png)
+![<kawaii_girl> 21](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/21.png)
+![<kawaii_girl> 22](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/22.png)
+![<kawaii_girl> 23](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/23.png)
+![<kawaii_girl> 24](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/24.png)
+![<kawaii_girl> 25](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/25.png)
+![<kawaii_girl> 26](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/26.png)
+![<kawaii_girl> 27](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/27.png)
+![<kawaii_girl> 28](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/28.png)
+![<kawaii_girl> 29](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/29.png)
+![<kawaii_girl> 30](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/30.png)
+![<kawaii_girl> 31](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/31.png)
+![<kawaii_girl> 32](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/32.png)
+![<kawaii_girl> 33](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/33.png)
+![<kawaii_girl> 34](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/34.png)
+![<kawaii_girl> 35](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/35.png)
+![<kawaii_girl> 36](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/36.png)
+![<kawaii_girl> 37](https://huggingface.co/sd-concepts-library/kawaii-girl-plus-object/resolve/main/concept_images/37.png)
+
